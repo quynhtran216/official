@@ -4,7 +4,7 @@ Date: 23rd July, 2022
 Course: COSC24030 - Web Programing
 Assigment 1 - Static Website
 
-Official Website: https://quynhtran216.github.io/asm1/
+Official Website: https://quynhtran216.github.io/official/
 
 References:
 logo.png - https://logos-download.com/56668-barnes-noble-logo-download.html
